@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//just adding a comment to commit 
 int main(){
 printf("pattern printing using *");
 int i,j;
